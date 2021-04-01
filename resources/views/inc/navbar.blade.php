@@ -30,10 +30,10 @@
                   <a class="nav-link mr-4 active" href="{{route('pacientes.index')}}">Pacientes</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link mr-4" href="{{route('consultas.index')}}">Consultas</a>
+                  <a class="nav-link mr-4 active" href="{{route('consultas.index')}}">Consultas</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link mr-4" href="{{route('empleados.index')}}">Empleados</a>             
+                  <a class="nav-link mr-4 active" href="{{route('empleados.index')}}">Empleados</a>             
                 </li>
                                   
 
