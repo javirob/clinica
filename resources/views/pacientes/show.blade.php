@@ -59,7 +59,7 @@
     </form>
 
     <div class="card-footer">
-      <a href="{{route('pacientes.edit', $paciente)}}" class="btn btn-primary col-2 mr-3">
+      <a href="{{route('pacientes.edit', $paciente)}}" class="btn btn-primary mr-3">
         <i class="fas fa-user-edit"></i> Editar
       </a>
     </div>
