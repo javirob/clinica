@@ -6,7 +6,8 @@ use App\Http\Controllers\EmpleadoController;
 use App\Http\Controllers\ConsultaController;
 
 
-Auth::routes();
+// Auth::routes();
+Auth::routes(['register' => false]);
 
 
 // PACIENTES
